@@ -16,7 +16,7 @@
 // Chat Prefixes
 "Chat_All"				"%s1: %s2"
 "Chat_All_Dead"			"*DEAD* %s1: %s2"
-"Chat_All_Spec"			"*SPEC* %s1 : %s2"
+"Chat_All_Spec"			"*SPEC* %s1: %s2"
 "Chat_Team"				"(TEAM) %s1: %s2"
 "Chat_Team_Loc"			"(TEAM) %s1 @ %s3: %s2"
 "Chat_Team_Dead"		"(TEAM) *DEAD* %s1: %s2"
@@ -24,9 +24,9 @@
 "Chat_All_Dev"			"[DEV] %s1: %s2"
 "Chat_All_Dev_Dead"		"*DEAD* [DEV] %s1: %s2"
 "Chat_All_Dev_Spec"		"*SPEC* [DEV] %s1: %s2"
-"Chat_Team_Dev"			"(TEAM) [DEV] %s1: %s2"
+"Chat_Team_Dev"			"(TEAM) [DEV] %s1: %s2"
 "Chat_Team_Dev_Loc"		"(TEAM) [DEV] %s1 @ %s3: %s2"
-"Chat_Team_Dev_Dead"	"(TEAM) *DEAD* [DEV] %s1: %s2"
+"Chat_Team_Dev_Dead"	"(TEAM) *DEAD* [DEV] %s1: %s2"
 "Chat_Team_Dev_Spec"	"(TEAM) *SPEC* [DEV] %s1: %s2"
 "Chat_Voice"			"(VOICE) "
 
@@ -46,6 +46,9 @@
 "TF_vote_change_civilian"			"Choose player %s1 to be the VIP?"
 "TF_vote_change_civilian_caller"	"Player %s1 wants to be the VIP."
 "TF_vote_passed_change_civilian"	"The VIP will be player: %s1..."
+
+// Player list dialog
+"TF_Volume_Generic"			"Volume:"
 
 // ----------------------------------------------------------------
 // Teams
@@ -1146,9 +1149,9 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_Menu_Quit"				"Quit"
 "TF_Menu_Disconnect"		"Disconnect"
 
-"TF_Menu_Blog"				"Official Blog"
-"TF_Menu_LatestUpdate"		"Latest Update"
+"TF_Menu_Blog"				"Website"
 "TF_Menu_ReportBug"			"Report a Bug"
+"TF_Menu_Donate"			"Donate"
 
 "TF_Friends_Title"					"Friends (%friend_count%)"
 "TF_Friends_Status_InTF2C"			"Playing TF2C"
@@ -1404,6 +1407,8 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_Network_Rate_Tip"       		"Sets network update rate, which inversely sets interpolation amount.\n\nRecommended to try each and see which feels best on your network connection."
 
 // Video
+"TF2c_Option_ClassicShading"		"Classic shading"
+"TF2c_Option_ClassicShading_Tip"	"If set, enables full-lambertian shading for player materials"
 "TF2c_Option_BloomScale"			"Bloom scale"
 "TF2c_Option_FramerateLimit"		"Framerate Limit"
 
