@@ -688,7 +688,7 @@
 "Attrib_MeleeTakenBecomesCritWearer"				"Kuşanana: Alınan yakın dövüş hasarları kritik olur"
 "Attrib_MoveSpeed_Bonus_Cloaked"					"Görünmezken +%s1% daha hızlı hareket hızı"
 "Attrib_LoseCloakOnDamage"							"Görünmezken hasar gördüğün zaman -%s1% pelerin miktarı"
-"Attrib_TranqOnHit"									"İsabet Hâlinde: Kurbanını %s1 saniyeliğine renk körü yapar ve silah ve hareket hızını yavaşlatır\nYatıştırılmış düşmanlarlar yakın dövüş saldırılarından kritik hasar alır"
+"Attrib_TranqOnHit"									"İsabet Hâlinde: Kurbanını %s1 saniyeliğine renk körü yapar ve silah ve hareket hızını yavaşlatır\nYatıştırılmış düşmanlar yakın dövüş saldırılarından kritik hasar alır"
 "Attrib_CloakRegenDisabled"							"Pasif pelerin yenilenmesi yok"
 "Attrib_FishwhackerSweep"							"Yakında olan düşmanlara geri itme uygular"
 "Attrib_SelfKnockbackAffectedByDamageBoostModifier"	"Kendini geri itme hasar artışından etkilenir"
@@ -783,7 +783,7 @@
 "Attrib_AltFire_HasteBoost"							"Alternatif Atış: Takım arkadaşına hız takviyesi ver"
 "Attrib_AltFire_UberBubble"							"Alternatif Atış: Belirli bir yarıçap içinde ölümsüzlük sağlayan bir cihaz fırlat"
 "Attrib_StickyIsLandmine"							"Kara mayınları fırlatır"
-"Attrib_AutoJumping"								"Kuşanan kişi zıplama tuşunu basılı tutarak otomatikman zıplayabilir"
+"Attrib_AutoJumping"								"Kuşanan kişi zıplama tuşuna basılı tutarak otomatikman zıplayabilir"
 "Attrib_SpreadScalesSpeed"							"Mevcut hıza bağlı olarak %s1% daha isabetli"
 "Attrib_DuckJumping"								"Kuşanan kişi çömelirken zıplayabilir"
 
